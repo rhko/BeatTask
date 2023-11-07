@@ -23,8 +23,9 @@
         git clone https://github.com/rhko/BeatTask.git
     </code>
 
+- Go into project directory
     <code>
-        cd cloned-project-directory
+        cd BeatTask
     </code>
 
 - Install all dependencies using composer
